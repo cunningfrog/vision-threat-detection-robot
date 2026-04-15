@@ -152,3 +152,7 @@ python threat_logic.py
 
 ## 🎯 Research Novelty
 > "A scalable cyber-physical security framework integrating AI-based visual threat detection, unsupervised anomaly scoring, and cryptographically secure alert transmission for Industry 4.0 autonomous environments."
+
+
+## 📌 Author
+Harsh Pandey (AI/ML Student)
